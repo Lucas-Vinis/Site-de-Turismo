@@ -5,7 +5,8 @@
 
 body {
     background-image: url(assets/bg-castelo.jpg);
-    background-size: cover;
+    background-size: 120% auto;
+    background-attachment: fixed;
     padding: 24px;
 }
 
