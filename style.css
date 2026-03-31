@@ -16,7 +16,7 @@ div {
     padding: 24px;
     background-color: #c2e3f0;
     border-radius: 24px;
-    margin: 48px auto 28px;
+    margin: 40px auto;
     color: black;
     font-size: 16px;
 }
@@ -33,5 +33,9 @@ p + p {
 }
 
 footer {
+    margin: 0 auto;
     text-align: center;
+    background-color: #c2e3f0;
+    border-radius: 12px;
+    width: 20%;
 }
